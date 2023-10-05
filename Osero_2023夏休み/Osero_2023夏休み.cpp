@@ -415,3 +415,5 @@ int main() {
 	judge_board();
 	return 0;
 }
+
+//変更
